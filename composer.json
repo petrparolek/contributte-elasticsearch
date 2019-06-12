@@ -13,7 +13,7 @@
     "require": {
         "php": "^7.2",
         "nette/di": "~3.0.0",
-        "elasticsearch/elasticsearch": "^6.0.1"
+        "elasticsearch/elasticsearch": "^6.7.1"
     },
     "require-dev": {
         "monolog/monolog": "^1.23.0",
